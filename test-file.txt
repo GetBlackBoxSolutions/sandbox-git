@@ -3,7 +3,7 @@ Blue
 Red
 Green
 Orange 
-Brown
 Pink
+Brown
 White
 Black

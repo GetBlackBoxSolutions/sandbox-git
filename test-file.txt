@@ -2,4 +2,6 @@ Colors:
 Blue
 Red
 Green
-Yellow
+Brown
+Pink
+Black
